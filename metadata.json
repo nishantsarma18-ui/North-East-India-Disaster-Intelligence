@@ -1,0 +1,6 @@
+{
+  "name": "NE India Disaster Intelligence Platform",
+  "description": "Full-stack WebGIS and AI disaster intelligence platform for rainfall, flood, and landslide hazards across North-East India with offline citizen triage and command dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
